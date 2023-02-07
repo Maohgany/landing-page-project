@@ -1,0 +1,9 @@
+.intro-color{
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+ width: 400px;
+ height: 360px;
+    background-color: #1c2431;
+}
